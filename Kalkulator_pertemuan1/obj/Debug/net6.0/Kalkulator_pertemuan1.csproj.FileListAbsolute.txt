@@ -1,0 +1,15 @@
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\bin\Debug\net6.0\Kalkulator_pertemuan1.exe
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\bin\Debug\net6.0\Kalkulator_pertemuan1.deps.json
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\bin\Debug\net6.0\Kalkulator_pertemuan1.runtimeconfig.json
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\bin\Debug\net6.0\Kalkulator_pertemuan1.dll
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\bin\Debug\net6.0\Kalkulator_pertemuan1.pdb
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.csproj.AssemblyReference.cache
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.AssemblyInfoInputs.cache
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.AssemblyInfo.cs
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.csproj.CoreCompileInputs.cache
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.dll
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\refint\Kalkulator_pertemuan1.dll
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.pdb
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\Kalkulator_pertemuan1.genruntimeconfig.cache
+D:\22.11.4769\pemrograman\pertemuan 1\Kalkulator_pertemuan1\Kalkulator_pertemuan1\obj\Debug\net6.0\ref\Kalkulator_pertemuan1.dll
